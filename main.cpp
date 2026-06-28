@@ -203,7 +203,7 @@ void runCalibration() {
   stopMotors();
 }
 
-// SECTION 9 — SETUP
+// SETUP
 
 void setup() {
   Serial.begin(115200);
